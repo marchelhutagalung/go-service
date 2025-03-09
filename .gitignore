@@ -2,4 +2,4 @@
 .env
 
 vendor/
-go-service
+./go-service
